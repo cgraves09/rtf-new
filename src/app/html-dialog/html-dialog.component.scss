@@ -1,0 +1,11 @@
+:host {
+  .content-container {
+    width: 400px;
+    height: 600px;
+    .html {
+      height: 500px;
+      width: 350px;
+      overflow: auto;
+    }
+  }
+}
